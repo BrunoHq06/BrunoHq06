@@ -2,4 +2,4 @@
 
 Graduando Sistemas da informação🎓  
 Business Intelligence and Analytics 📈📊  
-Estudando Python(Pandas, Seaborn, scikit-learn)💻  
+Estudando Python (Pandas, Seaborn, scikit-learn)💻  
